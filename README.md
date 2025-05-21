@@ -22,12 +22,11 @@ int main() {
     return 0;
 }
 ```
+
+
 ## OUTPUT:
 
-
 ![Screenshot 2025-05-21 152419](https://github.com/user-attachments/assets/fa5aa41e-3dcc-4f0b-9fdc-38c2c94460f1)
-
-
 
 
 ## RESULT:
@@ -64,6 +63,7 @@ int main() {
 
 ```
 
+
 # OUTPUT:
 
 ![Screenshot 2025-05-21 152924](https://github.com/user-attachments/assets/da45c94c-a4f0-4a4d-b5d7-0e267d8939e1)
@@ -72,16 +72,11 @@ int main() {
 ![Screenshot 2025-05-21 153019](https://github.com/user-attachments/assets/6fa9a1d1-e519-4ff3-a589-903dbe2ceb85)
 
 
-
-
-
 # RESULT:
 Thus the program to read A values and check whether A is positive number or not has been executed successfully.
  
  
  
-
-
 # EX-03- Operators-Expressions
 ## AIM:
 Write a program to find minimum between two fraction numbers using conditional operator or ternary operator.
@@ -110,11 +105,11 @@ int main() {
 }
 ```
 
+
 ## OUTPUT:
 
 
 ![Screenshot 2025-05-21 153642](https://github.com/user-attachments/assets/a206b6f9-7140-47f3-8967-d84e6f70e466)
-
 
 
 ## RESULT:
@@ -150,11 +145,12 @@ int main() {
     return 0;
 }
 ```
+
+
 ## OUTPUT:
 
 
 ![Screenshot 2025-05-21 154915](https://github.com/user-attachments/assets/f5f37d41-46d2-4b04-a640-581bb1512429)
-
 	
 
 ## RESULT:
@@ -211,6 +207,7 @@ int main() {
     return 0;
 }
 ```
+
 
 ## OUTPUT:
 ![Screenshot 2025-05-21 155556](https://github.com/user-attachments/assets/a8734585-df49-4733-8de5-3f8127746ad7)
